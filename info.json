@@ -1,0 +1,9 @@
+{
+  "name": "woodcircuitrecipe",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Wood Circuit recipe",
+  "author": "Serotonintheft",
+  "description": "Adds a wood-based recipe for electronic circuits, similarly to AAI. Made for a friend.",
+  "dependencies": ["base >= 1.1"]
+}
